@@ -1,0 +1,10 @@
+pytest==7.1.3
+pytest-pycodestyle
+pytest-cov
+requests
+flask
+pymodm
+dnspython
+Pillow
+matplotlib
+scipy

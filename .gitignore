@@ -1,0 +1,8 @@
+final_venv
+__pycache__
+.pytest_cache
+.vscode
+*.log
+*.xml
+.coverage
+b64_str_generator.py
